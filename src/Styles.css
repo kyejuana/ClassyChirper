@@ -1,0 +1,16 @@
+body {
+    margin-top: 50px;
+    background-color: rgb(27, 191, 209);
+    color: navy;
+}
+footer {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4tvYq9thCUPbiCOWVWQwuNqwMYVBLcEZhw&usqp=CAU");
+    background-blend-mode:color-dodge;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 300px;
+}
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
